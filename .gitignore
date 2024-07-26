@@ -17,7 +17,7 @@ Homestead.yaml
 /storage/framework/sessions
 /storage/framework/testing
 /storage/framework/views
-
+/nginx
 # Ignore IDE-specific files
 .idea
 .vscode
